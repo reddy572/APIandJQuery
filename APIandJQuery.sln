@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIandJQuery", "APIandJQuery\APIandJQuery.csproj", "{768EC10E-FA60-43DD-B6DB-8CCB65D08837}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{768EC10E-FA60-43DD-B6DB-8CCB65D08837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768EC10E-FA60-43DD-B6DB-8CCB65D08837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768EC10E-FA60-43DD-B6DB-8CCB65D08837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768EC10E-FA60-43DD-B6DB-8CCB65D08837}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {661A4621-E84E-4138-92A6-D49ABDFE6461}
+	EndGlobalSection
+EndGlobal
